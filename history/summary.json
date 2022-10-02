@@ -2,7 +2,7 @@
   {
     "name": "Feedbin",
     "url": "https://feedbin.com/login",
-    "icon": "https://favicons.githubusercontent.com/feedbin.com",
+    "icon": "https://icons.duckduckgo.com/ip3/feedbin.com.ico",
     "slug": "feedbin",
     "status": "up",
     "uptime": "100.00%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 335,
-    "timeDay": 505,
-    "timeWeek": 372,
-    "timeMonth": 354,
-    "timeYear": 335,
+    "time": 334,
+    "timeDay": 314,
+    "timeWeek": 367,
+    "timeMonth": 348,
+    "timeYear": 334,
     "dailyMinutesDown": {}
   }
 ]
