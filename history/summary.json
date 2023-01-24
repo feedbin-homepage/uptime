@@ -4,19 +4,19 @@
     "url": "https://feedbin.com/login",
     "icon": "https://icons.duckduckgo.com/ip3/feedbin.com.ico",
     "slug": "feedbin",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.54%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
     "time": 326,
-    "timeDay": 330,
-    "timeWeek": 278,
-    "timeMonth": 300,
+    "timeDay": 266,
+    "timeWeek": 269,
+    "timeMonth": 297,
     "timeYear": 326,
     "dailyMinutesDown": {
-      "2023-01-24": 0
+      "2023-01-24": 21
     }
   }
 ]
